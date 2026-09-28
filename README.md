@@ -8,7 +8,7 @@
 
 ## Sobre o projeto
 
-**SITHEAX** é uma plataforma de investigação focada em **interoperabilidade semântica clínica** e **processamento de linguagem natural aplicado à radiologia**. O trabalho parte de um conjunto real de 10.001 relatórios de Tomografia Computadorizada anonimizados provenientes do CHULN (Centro Hospitalar Universitário de Lisboa Norte), abordando dois problemas concretos:
+**SITHEAX**  é uma plataforma de investigação focada em **interoperabilidade semântica clínica** e **processamento de linguagem natural aplicado à radiologia**. O trabalho parte de um conjunto real de 10.001 relatórios de Tomografia Computadorizada anonimizados provenientes do CHULN (Centro Hospitalar Universitário de Lisboa Norte), abordando dois problemas concretos:
 
 1. Como transformar dados clínicos não estruturados — exportados em JSON aninhado com narrativas em RTF — no padrão universal **HL7 FHIR R4**, de forma automática, validada e escalável?
 2. Como gerar resumos clínicos automáticos de qualidade a partir desses relatórios, com avaliação rigorosa em português e inglês?
